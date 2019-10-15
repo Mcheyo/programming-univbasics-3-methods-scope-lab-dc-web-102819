@@ -9,6 +9,6 @@ puts status
 end
 
 def link
-  phrase = "It's Dangerous To Go ALone! Take This."
+  phrase = "It's Dangerous To Go Alone! Take This."
   puts phrase
 end 
